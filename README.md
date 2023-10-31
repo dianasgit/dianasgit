@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dianasgit or Diana Romão :) 
-- 👀 I’m interested in Tech-stuff, health care subjects (I'm a former ICU Nurse), and world travel experiences 🌎 ;
+- 👀 I’m interested in tech stuff, health care subjects (I'm a former ICU Nurse), and world travel experiences 🌎 ;
 - 🌱 I’m currently studying Computer Science at the International University of Applied Science;
 - 🚀 I’m looking to learn more about and collaborate on Java, C, JS, and CSS projects;
 
