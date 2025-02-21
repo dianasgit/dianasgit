@@ -7,7 +7,7 @@
 These are some of the technologies and tools that I work and study with:
 
 Backend: 
-Intermediate ![C](https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue-thumbnail.png)
+Intermediate ![C](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Ffree-icon%2Fpostgresql-8&psig=AOvVaw2upQUD2kgzOJtqnZfixrFE&ust=1740257531586000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDPndXS1YsDFQAAAAAdAAAAABAE)
 Basic ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 
 Frontend
