@@ -1,8 +1,8 @@
 ## 👋 Hi there 
-- ✨ I’m Diana Romão :) 
+- ✨ I’m Diana Silva :) 
 - 🌱 I’m currently studying Computer Engineering at University of Évora;
-- 🚀 I’m looking to learn more and collaborate on Java, C, JS, and Web projects;
-- ✨ I’m interested in tech stuff, health care subjects (I'm a former ICU Nurse), and world travel experiences 🌎 ;
+- 🚀 I’m looking to learn more and collaborate on Java, C, JS, SQL and Web projects;
+- ✨ I’m interested in tech stuff, health care subjects (I'm an ICU Nurse), and world travel experiences 🌎 ;
 
 ## ⚡ Technologies
 These are some of the technologies and tools that I work and study with:
