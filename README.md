@@ -7,7 +7,7 @@
 ## ⚡ Technologies
 These are some of the technologies and tools that I work and study with:
 
-**Backend:**  ![C](https://img.shields.io/badge/--00599C?style=flat-square&logo=c)  +  ![Java](https://img.shields.io/badge/-Java-DC143C?style=flat-square&logo=java&logoColor=white).
+**Backend:**  ![C](https://img.shields.io/badge/--00599C?style=flat-square&logo=c)  +  ![Java](https://img.shields.io/badge/-Java-DC143C?style=flat-square&logo=java&logoColor=white)  +  ![Python](https://upload.wikimedia.org/wikipedia/commons/3/31/Python-logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original).
 
 **Frontend:**  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  +  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)  +   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) .
 
@@ -15,8 +15,6 @@ These are some of the technologies and tools that I work and study with:
 
 **Tools:**   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)  +  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)  +  ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira)   
 
-**IDEs:**
-![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)  +  ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ## 📫 Reach me on 
 ### [![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/loiane/)](https://www.linkedin.com/in/diana-rom%C3%A3o-09a837277/)
