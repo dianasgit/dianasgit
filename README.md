@@ -7,7 +7,7 @@
 ## ⚡ Technologies
 These are some of the technologies and tools that I work and study with:
 
-**Backend:**  ![C](https://img.shields.io/badge/--00599C?style=flat-square&logo=c)  +  ![Java](https://img.shields.io/badge/-Java-DC143C?style=flat-square&logo=java&logoColor=white)  +  ![Python](https://upload.wikimedia.org/wikipedia/commons/3/31/Python-logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original).
+**Backend:** ![C](https://img.shields.io/badge/--00599C?style=flat-square&logo=c) + ![Java](https://img.shields.io/badge/-Java-DC143C?style=flat-square&logo=java&logoColor=white) + ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 **Frontend:**  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  +  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)  +   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) .
 
